@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Talks\n\n\nTalk listing", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#talks", 
+            "text": "Talk listing", 
+            "title": "Talks"
+        }, 
+        {
+            "location": "/talks/", 
+            "text": "Talk listing\n\n\n\n\n2015-07-03 - Training", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/talks/#talk-listing", 
+            "text": "2015-07-03 - Training", 
+            "title": "Talk listing"
+        }, 
+        {
+            "location": "/talks/2015-07-03/story/", 
+            "text": "LSCC Lab talk - Storyboard\n\n\nThis is the notes used to prepare for these \nSlides\n\n\nThe story (NOTES)\n\n\n\"A personal story of discovery\"\n\n\nSETUP\n\n\n\"Imagine a world, where all scientists are competent bioinformaticians\"\n\n\"... where they are as comfortable using an HPC as they are in the lab\"\n\n\n\n\n\nCharacters: Teacher and the STUDENT\n\n\n\n\nparticularly, LEARNERS who were abusing our HPC.\n\n\n\"We had this problem, were the users of our HPC were doing all sorts of evil things to it\"\n\n\n\n\n\n\nDecided to run unix and hpc courses to correct their behaviour\n\n\n\n\n\n\nCONFRONTATION\n\n\n\n\nRan with Bernie's Unix Workshop\n\n\nRead it, looked awesome, but\n\n\nppl got lost\n\n\nPolarised success rate\n\n\nbut gave good constructive feedback\n\n\npresentation\n\n\noutline\n\n\nwhy important\n\n\n\n\n\n\n\n\n\n\nCritical Reflection\n\n\nIMPORTANT !!!\n\n\nMany forms\n\n\nVLSCI Survey == ace\n\n\n\n\n\n\nHow to make a good presentation\n\n\n6x4 (Be brave)\n\n\nRecall (words = bad, pictures = good, pauses/ = great)\n\n\nAssumptions (nil, don't forget you have 16 years experience)\n\n\n5 qualities\n\n\n\n\n\n\nWhy 50/50 split in success?\n\n\nStyles of learning\n\n\nNeed to cover all bases \n\n\n\n\n\n\n\n\n\n\n\n\nRESOLUTION\n\n\n\n\nRaving success\n\n\nbut why?\n\n\n\n\n\n\nAccidental Game based learning\n\n\ndemo 'showable'\n\n\n\n\n\n\ncompleting a basic training course will help you no end\n\n\nThe Learners will love you for it !!\n\n\n\n\n\n\n\n\nWill you join me in producing excellent training courses\n\n\n\n\n\n\nHow a little bit of training can take your training skills to the next level\n\n\n\n\n\n\n\n\n\n\nNeeded to run a unix course and hpc course because people were doing many evil things to our HPC\n\n\nTook Bernie's course (Q/A + notes 3x docs)\n\n\nlooked awesome\n\n\nperformed mixed\n\n\n\n\n\n\nTraining the Trainer\n\n\nTook a detour via \"Becoming a Confident Trainer\"\n\n\n4 week (informal) online course\n\n\n\n\n\n\nTake ideas from course\n\n\n...\n\n\nChanged course\n\n\nTurned it into a game by accident", 
+            "title": "2015-07-03"
+        }, 
+        {
+            "location": "/talks/2015-07-03/story/#lscc-lab-talk-storyboard", 
+            "text": "This is the notes used to prepare for these  Slides", 
+            "title": "LSCC Lab talk - Storyboard"
+        }, 
+        {
+            "location": "/talks/2015-07-03/story/#the-story-notes", 
+            "text": "\"A personal story of discovery\"  SETUP  \"Imagine a world, where all scientists are competent bioinformaticians\"\n\n\"... where they are as comfortable using an HPC as they are in the lab\"   Characters: Teacher and the STUDENT   particularly, LEARNERS who were abusing our HPC.  \"We had this problem, were the users of our HPC were doing all sorts of evil things to it\"    Decided to run unix and hpc courses to correct their behaviour    CONFRONTATION   Ran with Bernie's Unix Workshop  Read it, looked awesome, but  ppl got lost  Polarised success rate  but gave good constructive feedback  presentation  outline  why important      Critical Reflection  IMPORTANT !!!  Many forms  VLSCI Survey == ace    How to make a good presentation  6x4 (Be brave)  Recall (words = bad, pictures = good, pauses/ = great)  Assumptions (nil, don't forget you have 16 years experience)  5 qualities    Why 50/50 split in success?  Styles of learning  Need to cover all bases        RESOLUTION   Raving success  but why?    Accidental Game based learning  demo 'showable'    completing a basic training course will help you no end  The Learners will love you for it !!     Will you join me in producing excellent training courses    How a little bit of training can take your training skills to the next level      Needed to run a unix course and hpc course because people were doing many evil things to our HPC  Took Bernie's course (Q/A + notes 3x docs)  looked awesome  performed mixed    Training the Trainer  Took a detour via \"Becoming a Confident Trainer\"  4 week (informal) online course    Take ideas from course  ...  Changed course  Turned it into a game by accident", 
+            "title": "The story (NOTES)"
+        }
+    ]
+}
