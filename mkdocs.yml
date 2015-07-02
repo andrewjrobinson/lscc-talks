@@ -1,0 +1,12 @@
+site_name: Talks
+pages:
+- 'Home': 'index.md'
+- 'Talks':
+  - 'Overview': 'talks/index.md'
+  - '2015-07-03': 'talks/2015-07-03/story.md'
+extra_templates: [
+  'talks/2015-07-03/index.html',
+]
+markdown_extensions: [
+  'showable',
+]
